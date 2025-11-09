@@ -1,4 +1,4 @@
-#### Retail Store Sales Analysis Dashboard
+# Retail Store Sales Analysis Dashboard
 
 ## 📌 Project Overview
 This project analyzes the sales performance of a retail store across different product categories, customer segments, and seasonal trends. The goal is to provide meaningful insights that help improve sales, customer targeting, and pricing decisions.
