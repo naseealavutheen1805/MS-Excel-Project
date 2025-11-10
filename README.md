@@ -15,7 +15,7 @@ This project analyzes the sales performance of a retail store across different p
 | Data Cleaning | Excel (Power Query & Functions) |
 | Analysis | Pivot Tables |
 | Visualization | Excel Dashboard |
-| Documentation | Word / README |
+| Documentation | word / README |
 
 ## 📊 Key Insights
 - **Clothing** has the highest sales contribution among all product categories.
@@ -24,12 +24,11 @@ This project analyzes the sales performance of a retail store across different p
 - A small group of **Top 10 customers** contribute significantly to total revenue.
 
 ## 🎯 Recommendations
-| Focus Area | Recommendation |
-|-----------|---------------|
-| Sales Growth | Use **combo offers & bundled pricing** to increase average order value. |
-| Customer Targeting | Run **digital/social media campaigns** focusing on ages **18–37**. |
-| Pricing Strategy | Apply **season-based discounts** and **loyalty rewards** for repeat customers. |
-| Inventory Planning | Increase stock before **peak seasons** and use clearance offers in lean periods. |
+- **Focus Area and Recommendation**
+- Sales Growth - Use **combo offers & bundled pricing** to increase average order value. 
+- Customer Targeting - Run **digital/social media campaigns** focusing on ages **18–37**. 
+- Pricing Strategy - Apply **season-based discounts** and **loyalty rewards** for repeat customers. 
+- Inventory Planning - Increase stock before **peak seasons** and use clearance offers in lean periods. 
 
 ## 🧾 Deliverables
 - Cleaned Dataset (Excel)
@@ -39,7 +38,7 @@ This project analyzes the sales performance of a retail store across different p
 
 
 ## ✅ Outcome
-This project demonstrates the use of Excel for real business analytics — including dataset preparation, dashboarding, KPI analysis, insight extraction, and business recommendations.
+This project shows the use of Excel for real data analytics — including dataset preparation, dashboarding, KPI analysis, insight extraction, and business recommendations.
 
 
 
