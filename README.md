@@ -24,7 +24,7 @@ This project analyzes the sales performance of a retail store across different p
 - A small group of **Top 10 customers** contribute significantly to total revenue.
 
 ## 🎯 Recommendations
-  # **Focus Area and Recommendation**
+  ### **Focus Area and Recommendation**
 - Sales Growth - Use **combo offers & bundled pricing** to increase average order value. 
 - Customer Targeting - Run **digital/social media campaigns** focusing on ages **18–37**. 
 - Pricing Strategy - Apply **season-based discounts** and **loyalty rewards** for repeat customers. 
